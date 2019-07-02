@@ -17,8 +17,8 @@ So it's a good choice to valite my codes by a catenoid.
 For more information, please read my report.
 
 Catenoid:
-![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide1.emf)
-![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide2.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide1.jpg)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide2.jpg)
 
 Test1:
 Before optimisation:
