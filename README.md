@@ -30,4 +30,4 @@ Test2:
 Before optimisation:
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test2_before_optimisation.jpg)
 After optimisation:
-![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.jpg)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test2_after_optimisation.jpg)
