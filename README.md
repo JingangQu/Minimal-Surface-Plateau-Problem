@@ -1,1 +1,1 @@
-# Minimal-Surface-Plateau-Problem
+# Minimal Surface Plateau Problem
