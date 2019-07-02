@@ -20,13 +20,13 @@ Catenoid:
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide1.jpg)
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide2.jpg)
 
-Test1:
+Test1:  
 Before optimisation:
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_before_optimisation.jpg)
 After optimisation:
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.jpg)
 
-Test2:
+Test2:  
 Before optimisation:
 ![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test2_before_optimisation.jpg)
 After optimisation:
