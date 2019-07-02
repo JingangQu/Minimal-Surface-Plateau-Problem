@@ -17,17 +17,17 @@ So it's a good choice to valite my codes by a catenoid.
 For more information, please read my report.
 
 Catenoid:
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide1.emf)
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide2.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide1.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/catenoide2.emf)
 
 Test1:
 Before optimisation:
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_before_optimisation.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_before_optimisation.emf)
 After optimisation:
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.emf)
 
 Test2:
 Before optimisation:
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test2_before_optimisation.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test2_before_optimisation.emf)
 After optimisation:
-![image](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.emf)
+![](https://github.com/JingangQu/Minimal-Surface-Plateau-Problem/blob/master/images/test1_after_optimisation.emf)
