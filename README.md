@@ -14,4 +14,4 @@ For the minimal surface, there is an analytical solution for a type of problems,
 
 So it's a good choice to valite my codes by a catenoid.
 
-For more information, please my report.
+For more information, please read my report.
